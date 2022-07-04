@@ -1,0 +1,5 @@
+import Dangerous
+
+ 
+
+Dangerous.mulai()
